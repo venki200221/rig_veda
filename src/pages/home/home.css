@@ -1,0 +1,20 @@
+
+.titleimg{
+    margin-top: 20px;
+    width: 270px;
+    height: auto;
+    overflow: hidden;
+}
+.heading{
+    font-family: 'Bree Serif', serif;
+}
+.para{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.7rem;
+    color: rgb(36, 41, 41);
+    padding: 10px;
+}
+
+.phone{
+    margin: 10px;
+}
