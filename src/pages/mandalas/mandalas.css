@@ -1,5 +1,5 @@
 .heading{
-    /* From https://css.glass */
+    
 
 color:rgb(0, 0, 0);
 text-align: center;
@@ -16,7 +16,7 @@ font-family: 'Abril Fatface', cursive;
     align-items: center;
     width: 700px;
     font-family: 'Abril Fatface', cursive;
-/* From https://css.glass */
+
 background: rgba(255, 255, 255, 0.04);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
